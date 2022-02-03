@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imohsinali&show_icons=true&locale=en&layout=compact" alt="imohsinali" /></p>
 <span>
-<p style="width:50px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imohsinali&show_icons=true&locale=en" alt="imohsinali" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imohsinali&" alt="imohsinali" /></p>
 
